@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+.logo{
+    font-family: 'Russo One', sans-serif;
+}
+.nav-link{
+    font-size: 1.4rem;
+    color: #f6f9fe;
+}
